@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">IberotecMarketingAssistantv1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="m_video_btn_text">Video </string>
+    <string name="m_picture_btn_text">Fotos</string>
+    <string name="btn1_text">Canal 2</string>
+    <string name="btn2_text">Globo</string>
+    <string name="btn3_text">Drone</string>
+    <string name="btn4_text">Superpoder</string>
+    <string name="btn5_text">Telecomunicaciones</string>
+    <string name="btn6_text">Teleamor</string>
+    <string name="btn_register_text">Registrar</string>
+
+
+    <string-array name="picture_titles">
+        <item>Hexacóptero</item>
+        <item>Hexápodo</item>
+        <item>Redes</item>
+        <item>Electrónica</item>
+        <item>Instituto1</item>
+        <item>Interior</item>
+        <item>Telecomunicaciones</item>
+        <item>Física</item>
+        <item>Domotica</item>
+        <item>Globo</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/hexacoptero_icono</item>
+        <item>@drawable/hexapodo_icono</item>
+        <item>@drawable/redes_icono</item>
+        <item>@drawable/electronica_icono</item>
+        <item>@drawable/instituto_icono</item>
+        <item>@drawable/interior_instituto_icono</item>
+        <item>@drawable/telecomunicaciones_iconos</item>
+        <item>@drawable/fisica_icono</item>
+        <item>@drawable/domotica_icono</item>
+        <item>@drawable/globo_icono</item>
+    </array>
+
+    <array name="picture_id">
+        <item>@raw/picture_hexacoptero</item>
+        <item>@raw/picture_hexapodo</item>
+        <item>@raw/picture_redes</item>
+        <item>@raw/picture_electronica</item>
+        <item>@raw/picture_instituto</item>
+        <item>@raw/picture_interior_instituto</item>
+        <item>@raw/picture_telecomunicaciones</item>
+        <item>@raw/picture_fisica</item>
+        <item>@raw/picture_domotica</item>
+        <item>@raw/picture_globo</item>
+    </array>
+
+    <string-array name="video_titles">
+        <item>Drone construido</item>
+        <item>Frecuencia Latina</item>
+        <item>Globo video</item>
+        <item>Superpoderes</item>
+        <item>Teleamor</item>
+        <item>Mundo Moderno</item>
+    </string-array>
+
+    <array name="video_icons">
+        <item>@drawable/video_drone_construido_icono</item>
+        <item>@drawable/video_frecuencia_latina_icono</item>
+        <item>@drawable/video_globo_icono</item>
+        <item>@drawable/video_superpoderes_icono</item>
+        <item>@drawable/video_teleamor_icono</item>
+        <item>@drawable/video_telecomunicaciones_icono</item>
+    </array>
+
+    <integer-array name="video_id">
+        <item>@raw/video_drone_construido</item>
+        <item>@raw/video_frecuencia_latina</item>
+        <item>@raw/video_globo</item>
+        <item>@raw/video_superpoderes</item>
+        <item>@raw/video_teleamor</item>
+        <item>@raw/video_telecomunicaciones</item>
+    </integer-array>
+
+</resources>
